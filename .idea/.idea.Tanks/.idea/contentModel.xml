@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\donet\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\donet\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Tanks.1633514203.00" t="ExcludeRecursive" />
+    <e p="D:\MyProject\Tanks" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="GameControl.cs" t="Include" />
+          <e p="greenTank.cs" t="Include" />
+          <e p="Guns" t="Include">
+            <e p="BullEnemy.cs" t="Include" />
+            <e p="Bullet.cs" t="Include" />
+            <e p="Gun.cs" t="Include" />
+            <e p="Gun1.cs" t="Include" />
+            <e p="Gun4.cs" t="Include" />
+            <e p="ScrolWeapon.cs" t="Include" />
+          </e>
+          <e p="MainMenu.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
+          <e p="redT.cs" t="Include" />
+          <e p="ScrolWeaponMenu.cs" t="Include" />
+          <e p="Tank.cs" t="Include" />
+          <e p="TankManager.cs" t="Include" />
+          <e p="yellowTank.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Tanks.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
